@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-07-03T12:31:48.614143",
+            "datePublished": "2024-10-29T16:57:12.055023",
             "hasPart": [
                 {
                     "@id": "Allele-based-Pathogen-Identification.ga"
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/allele-based-pathogen-identification",
-            "version": "0.1.1"
+            "version": "0.1.2"
         },
         {
             "@id": "#galaxy",
@@ -154,7 +154,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.23"
+            "engineVersion": ">=0.75.26"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
